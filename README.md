@@ -1,4 +1,4 @@
-
+![alt text](https://www.haberso.com/sites/367/uploads/2020/11/10/large/baabfca6e9e1d4e3-1605011750.jpg?)
 
 # Kardiyovasküler Hastalık Teşhisi Modeli
 
@@ -29,18 +29,19 @@ Bu projede ise hem geleneksel makine öğrenmesi modellerini(Lojistik Regresyon,
 Verisetimiz yaklaşık olarak 70.000 gerçek hasta verilerinden oluşturulmuştur veriyi Kaggle adlı siteden Svetlana Ulianova isimli kullanıcının kaynağından aldım. Burada yapmak istediğim sadece bir sınıflandırma modeli oluşturmak değil aynı zamanda hangi verilerin ve hangi tür özellikler(muayane, demografik, sosyal yaşam) KVH oluşumunda kaydadeğer yararının olduğunu öğrenmekti. Verisetimiz 11 özelliğe sahip ve 34,979 KVH sahip ve 35,021 KVH sahip olmayan hasta var biz ise bu verilerle modelimizi eğitip başarımı yüksek bir sonuç almayı hedefliyoruz.
 
 Verinin Tanımlanması:
-Yaş(Demografik)
-Boy(Demografik)
-Kilo(Demografik)
-Cinsiyet(Demografik)
-Sistolik kan basıncı(Muayene)
-Diyastolik kan basıncı(Muayene)
-Kolesterol(Muayene)
-Glikoz(Muayene)
-Sigara(Sosyal Yaşam)
-Alkol(Sosyal Yaşam)
-Fiziksel Aktivite(Sosyal Yaşam)
-KVH durumu
+- Yaş(Demografik)
+- Boy(Demografik)
+- Kilo(Demografik)
+- Cinsiyet(Demografik)
+- Sistolik kan basıncı(Muayene)
+- Diyastolik kan basıncı(Muayene)
+- Kolesterol(Muayene)
+- Glikoz(Muayene)
+- Sigara(Sosyal Yaşam)
+- Alkol(Sosyal Yaşam)
+- Fiziksel Aktivite(Sosyal Yaşam)
+- KVH durumu
+
 (Tüm veri seti değerleri tıbbi muayene anında toplanmıştır.)
 
 
